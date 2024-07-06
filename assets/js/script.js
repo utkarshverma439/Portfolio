@@ -90,7 +90,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 });
 
 async function fetchData() {
-    let response = await fetch("./projects/projects.json")
+    let response = await fetch("projects.json")
     const data = await response.json();
     return data;
 }
