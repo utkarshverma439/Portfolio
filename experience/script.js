@@ -6,9 +6,9 @@ $(document).ready(function () {
 
     body.classList.add(defaultMode);
     if (defaultMode === 'day-mode') {
-        modeToggleImg.src = '/assets/images/sun.png';
+        modeToggleImg.src = '../assets/images/sun.png';
     } else {
-        modeToggleImg.src = '/assets/images/moon.png';
+        modeToggleImg.src = '../assets/images/moon.png';
     }
 
     $('#menu').click(function () {
@@ -44,11 +44,11 @@ document.getElementById('mode-toggle').addEventListener('click', () => {
     if (isDayMode) {
         body.classList.remove('day-mode');
         body.classList.add('night-mode');
-        modeToggleImg.src = '/assets/images/moon.png';
+        modeToggleImg.src = '../assets/images/moon.png';
     } else {
         body.classList.remove('night-mode');
         body.classList.add('day-mode');
-        modeToggleImg.src = '/assets/images/sun.png';
+        modeToggleImg.src = '../assets/images/sun.png';
     }
 });
 
@@ -74,16 +74,16 @@ document.onkeydown = function (e) {
 document.addEventListener('visibilitychange', function () {
     if (document.visibilityState === "visible") {
         document.title = "Experience | Portfolio Utkarsh Verma";
-        $("#favicon").attr("href", "/assets/images/favicon.png");
+        $("#favicon").attr("href", "../assets/images/favicon.png");
     } else {
         document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href", "/assets/images/favhand.png");
+        $("#favicon").attr("href", "../assets/images/favhand.png");
     }
 });
 
 // Fetch and display experience data
 async function fetchExperienceData() {
-    const response = await fetch("/experience.json");
+    const response = await fetch("../experience.json");
     const data = await response.json();
     return data;
 }
