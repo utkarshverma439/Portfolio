@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CropVista",
+    "desc": "Developed a crop analysis project that predicts suitable crops based on surrounding conditions and soil composition.",
+    "image": "CropVista",
+    "category": "real-time-projects",
+    "links": {
+      "view": "https://utkarshverma439.github.io/CropVista/",
+      "code": "https://github.com/utkarshverma439/CropVista"
+    }
+  },
+  {
+    "name": "Simple SMS Spam Detector",
+    "desc": "Detects spam messages using machine learning algorithms.",
+    "image": "sms-spam-detector",
+    "category": "learning-projects",
+    "links": {
+      "view": "#projects",
+      "code": "https://github.com/utkarshverma439/Simple-SMS-Spam-Detector"
+    }
+  },
+  {
+    "name": "Dog vs Cat Classification",
+    "desc": "Classifies images of dogs and cats using a deep neural network.",
+    "image": "dog-vs-cat",
+    "category": "learning-projects",
+    "links": {
+      "view": "#projects",
+      "code": "https://github.com/utkarshverma439/Dog-vs-Cat-Classification"
+    }
+  }
+]
