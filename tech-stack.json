@@ -1,0 +1,173 @@
+{
+    "tabs": [
+      {
+        "id": "data-science",
+        "label": "Data Science",
+        "skills": [
+          {
+            "name": "Data Analysis",
+            "image": "assets/images/tech-stack/data-analysis.png"
+          },
+          {
+            "name": "Data Modeling",
+            "image": "assets/images/tech-stack/data-modeling.png"
+          },
+          {
+            "name": "Data Visualization",
+            "image": "assets/images/tech-stack/data-visualization.png"
+          },
+          {
+            "name": "Machine Learning",
+            "image": "assets/images/tech-stack/machine-learning.png"
+          },
+          {
+            "name": "Deep Learning",
+            "image": "assets/images/tech-stack/deep-learning.png"
+          },
+          {
+            "name": "Model Interpretation",
+            "image": "assets/images/tech-stack/model-interpretation.png"
+          }
+        ]
+      },
+      {
+        "id": "backend",
+        "label": "Backend Development",
+        "skills": [
+          {
+            "name": "SQL",
+            "image": "assets/images/tech-stack/sql.png"
+          },
+          {
+            "name": "Flask",
+            "image": "assets/images/tech-stack/flask.png"
+          },
+          {
+            "name": "Model Deployment",
+            "image": "assets/images/tech-stack/model-deployment.png"
+          },
+          {
+            "name": "Version Control (Git)",
+            "image": "assets/images/tech-stack/git.png"
+          }
+        ]
+      },
+      {
+        "id": "programming",
+        "label": "Programming Languages",
+        "skills": [
+          {
+            "name": "C",
+            "image": "assets/images/tech-stack/c.png"
+          },
+          {
+            "name": "C++",
+            "image": "assets/images/tech-stack/cpp.png"
+          },
+          {
+            "name": "Python",
+            "image": "assets/images/tech-stack/python.png"
+          },
+          {
+            "name": "HTML",
+            "image": "assets/images/tech-stack/html.png"
+          },
+          {
+            "name": "CSS",
+            "image": "assets/images/tech-stack/css.png"
+          },
+          {
+            "name": "JavaScript",
+            "image": "assets/images/tech-stack/javascript.png"
+          }
+        ]
+      },
+      {
+        "id": "software-known",
+        "label": "Software Known",
+        "skills": [
+          {
+            "name": "MS Word",
+            "image": "assets/images/tech-stack/word.png"
+          },
+          {
+            "name": "MS Excel",
+            "image": "assets/images/tech-stack/excel.png"
+          },
+          {
+            "name": "MS PowerPoint",
+            "image": "assets/images/tech-stack/powerpoint.png"
+          },
+          {
+            "name": "PowerBI",
+            "image": "assets/images/tech-stack/power-bi.png"
+          },
+          {
+            "name": "Tableau",
+            "image": "assets/images/tech-stack/tableau.png"
+          },
+          {
+            "name": "Vs-Code",
+            "image": "assets/images/tech-stack/vs-code.png"
+          },
+          {
+            "name": "Github",
+            "image": "assets/images/tech-stack/github.png"
+          },
+          {
+            "name": "Canva",
+            "image": "assets/images/tech-stack/canva.png"
+          }
+        ]
+      },
+      {
+        "id": "project-management",
+        "label": "Project Management",
+        "skills": [
+          {
+            "name": "Project Management",
+            "image": "assets/images/tech-stack/project-management.png"
+          },
+          {
+            "name": "Leadership",
+            "image": "assets/images/tech-stack/leadership.png"
+          },
+          {
+            "name": "Event Management",
+            "image": "assets/images/tech-stack/event-management.png"
+          }
+        ]
+      },
+      {
+        "id": "other-skills",
+        "label": "Other Skills",
+        "skills": [
+          {
+            "name": "Statistical Analysis",
+            "image": "assets/images/tech-stack/statistical-analysis.png"
+          },
+          {
+            "name": "Predictive Modeling",
+            "image": "assets/images/tech-stack/predictive-modeling.png"
+          },
+          {
+            "name": "Feature Engineering",
+            "image": "assets/images/tech-stack/feature-engineering.png"
+          },
+          {
+            "name": "Data Preprocessing",
+            "image": "assets/images/tech-stack/data-preprocessing.png"
+          },
+          {
+            "name": "Googling",
+            "image": "assets/images/tech-stack/googling.png"
+          },
+          {
+            "name": "Prompt Engineering",
+            "image": "assets/images/tech-stack/prompting.png"
+          }
+        ]
+      }
+    ]
+  }
+  
