@@ -6,9 +6,9 @@ $(document).ready(function () {
 
     body.classList.add(defaultMode);
     if (defaultMode === 'day-mode') {
-        modeToggleImg.src = '/assets/images/sun.png';
+        modeToggleImg.src = 'assets/images/sun.png';
     } else {
-        modeToggleImg.src = '/assets/images/moon.png';
+        modeToggleImg.src = 'assets/images/moon.png';
     }
 
     $('#menu').click(function () {
@@ -101,7 +101,7 @@ function showProjects(projects) {
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/project/${project.image}.png" alt="project" />
+      <img draggable="false" src="assets/images/project/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
@@ -232,11 +232,11 @@ document.getElementById('mode-toggle').addEventListener('click', () => {
     if (isDayMode) {
         body.classList.remove('day-mode');
         body.classList.add('night-mode');
-        modeToggleImg.src = '/assets/images/moon.png';
+        modeToggleImg.src = 'assets/images/moon.png';
     } else {
         body.classList.remove('night-mode');
         body.classList.add('day-mode');
-        modeToggleImg.src = '/assets/images/sun.png'; 
+        modeToggleImg.src = 'assets/images/sun.png'; 
     }
 });
 
