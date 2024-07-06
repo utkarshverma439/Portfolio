@@ -2,7 +2,7 @@
   {
     "name": "CropVista",
     "desc": "Developed a crop analysis project that predicts suitable crops based on surrounding conditions and soil composition.",
-    "image": "CropVista",
+    "image": "../assets/images/Project/CropVista.png",
     "category": "real-time-projects",
     "links": {
       "view": "https://utkarshverma439.github.io/CropVista/",
@@ -12,7 +12,7 @@
   {
     "name": "Simple SMS Spam Detector",
     "desc": "Detects spam messages using machine learning algorithms.",
-    "image": "sms-spam-detector",
+    "image": "../assets/images/Project/sms-spam-detector.png",
     "category": "learning-projects",
     "links": {
       "view": "#projects",
@@ -22,7 +22,7 @@
   {
     "name": "Dog vs Cat Classification",
     "desc": "Classifies images of dogs and cats using a deep neural network.",
-    "image": "dog-vs-cat",
+    "image": "../assets/images/Project/dog-vs-cat.png",
     "category": "learning-projects",
     "links": {
       "view": "#projects",
